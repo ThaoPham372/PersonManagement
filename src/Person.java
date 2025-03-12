@@ -1,6 +1,6 @@
 import java.time.Year;
 
-public class Person {
+public abstract class Person {
     protected String name;
     protected String SSN;
     protected int yob; // Year of Birth (Năm sinh)
